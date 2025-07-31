@@ -31,7 +31,6 @@ This repository contains a collection of machine learning projects developed dur
 - **Extras**: Feature Engineering, Model Evaluation, GridSearchCV, EDA, Data Cleaning
 
 ## 📌 Useful Links
-- 🔗 [GitHub Projects](https://lnkd.in/dy9wGyig)
 - 📊 [Kaggle Profile](https://lnkd.in/dtTuuNXH)
 
 ---
